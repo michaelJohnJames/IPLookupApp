@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_205013_iplookup_ipaddressinfo</description>
+        <name>x_205013_iplookup_ipaddressinfo</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-22 18:26:14</sys_created_on>
+        <sys_id>cb9584854f411300b88c8df07310c773</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_205013_iplookup_ipaddressinfo</sys_name>
+        <sys_package display_value="IPLookup" source="x_205013_iplookup">922108414f011300b88c8df07310c738</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">922108414f011300b88c8df07310c738</sys_scope>
+        <sys_update_name>sys_security_acl_cb9584854f411300b88c8df07310c773</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-22 18:26:14</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
